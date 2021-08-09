@@ -21,6 +21,7 @@ for ($i=0; $i < 30 ; $i++) {
    $masyvas[] += $skaicius;
 }
 
+
 var_dump($masyvas);
 echo '<br>';
 echo '<br>';
